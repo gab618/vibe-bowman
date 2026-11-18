@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="240" viewBox="0 0 70 240">
+  <!-- bow.svg: grip = empunhadura (42, 120), stringTop = (16, 14), stringBottom = (16, 226) -->
+  <!-- Tokens: #FFFF00 = madeira do arco -->
+  <path
+    d="M 16 14 Q 58 65 42 120 Q 58 175 16 226"
+    fill="none"
+    stroke="#FFFF00"
+    stroke-width="8"
+    stroke-linecap="round"
+  />
+
+  <!-- Guias de referência -->
+  <g id="reference-markers" opacity="0.6">
+    <!-- grip (42, 120) -->
+    <circle cx="42" cy="120" r="3" fill="#00C853" />
+    <!-- stringTop (16, 14) & stringBottom (16, 226) -->
+    <circle cx="16" cy="14" r="3" fill="#FF9100" />
+    <circle cx="16" cy="226" r="3" fill="#FF9100" />
+  </g>
+</svg>

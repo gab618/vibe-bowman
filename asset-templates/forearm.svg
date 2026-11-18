@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
+  <!-- forearm.svg: horizontal esquerda→direita | anchor = cotovelo (14, 20), tip = mão (106, 20) -->
+  <!-- Tokens: #FF00FF = corpo principal, #00FFFF = detalhe/sombra -->
+  <rect x="6" y="12" width="102" height="16" rx="8" fill="#FF00FF" />
+  <!-- Mão na ponta direita -->
+  <circle cx="106" cy="20" r="8" fill="#00FFFF" />
+
+  <!-- Guias de referência -->
+  <g id="reference-markers" opacity="0.6">
+    <circle cx="14" cy="20" r="3" fill="#00C853" />
+    <circle cx="106" cy="20" r="3" fill="#FF9100" />
+  </g>
+</svg>

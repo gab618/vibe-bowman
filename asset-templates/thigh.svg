@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="44" viewBox="0 0 150 44">
+  <!-- thigh.svg: horizontal esquerda→direita | anchor = quadril (16, 22), tip = joelho (134, 22) -->
+  <!-- Tokens: #FF00FF = corpo principal, #00FFFF = detalhe/sombra -->
+  <rect x="6" y="11" width="138" height="22" rx="11" fill="#FF00FF" />
+  <line x1="24" y1="27" x2="126" y2="27" stroke="#00FFFF" stroke-width="3.5" stroke-linecap="round" />
+
+  <!-- Guias de referência -->
+  <g id="reference-markers" opacity="0.6">
+    <circle cx="16" cy="22" r="3" fill="#00C853" />
+    <circle cx="134" cy="22" r="3" fill="#FF9100" />
+  </g>
+</svg>

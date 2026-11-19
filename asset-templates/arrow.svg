@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="32" viewBox="0 0 164 32">
+  <!-- arrow.svg: horizontal apontando para a direita (0°) | tail = (10, 16), tip = (154, 16) -->
+  <!-- Tokens: #FF8000 = haste da flecha, #00FF00 = penas da flecha -->
+  <line x1="10" y1="16" x2="142" y2="16" stroke="#FF8000" stroke-width="4" stroke-linecap="round" />
+  <!-- Penas na cauda -->
+  <polygon points="10,16 4,8 22,8 28,16 22,24 4,24" fill="#00FF00" />
+  <!-- Ponta metálica -->
+  <polygon points="154,16 138,10 138,22" fill="#1A1A1D" />
+
+  <!-- Guias de referência -->
+  <g id="reference-markers" opacity="0.6">
+    <!-- tail (10, 16) -->
+    <circle cx="10" cy="16" r="2.5" fill="#00C853" />
+    <!-- tip (154, 16) -->
+    <circle cx="154" cy="16" r="2.5" fill="#FF9100" />
+  </g>
+</svg>

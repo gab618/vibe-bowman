@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="44" viewBox="0 0 150 44">
+  <!-- shin.svg: horizontal esquerda→direita | anchor = joelho (16, 22), tip = tornozelo/pé (134, 22) -->
+  <!-- Tokens: #FF00FF = corpo principal, #00FFFF = detalhe/sombra -->
+  <rect x="6" y="13" width="132" height="18" rx="9" fill="#FF00FF" />
+  <!-- Pé apontando para cima no SVG (que corresponde para frente na canela apontada para baixo) -->
+  <rect x="128" y="8" width="14" height="20" rx="5" fill="#00FFFF" />
+
+  <!-- Guias de referência -->
+  <g id="reference-markers" opacity="0.6">
+    <circle cx="16" cy="22" r="3" fill="#00C853" />
+    <circle cx="134" cy="22" r="3" fill="#FF9100" />
+  </g>
+</svg>

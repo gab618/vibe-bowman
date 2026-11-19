@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
+  <!-- upper-arm.svg: horizontal esquerda→direita | anchor = ombro (14, 20), tip = cotovelo (106, 20) -->
+  <!-- Tokens: #FF00FF = corpo principal, #00FFFF = detalhe/sombra -->
+  <rect x="6" y="11" width="108" height="18" rx="9" fill="#FF00FF" />
+  <line x1="22" y1="24" x2="98" y2="24" stroke="#00FFFF" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Guias de referência -->
+  <g id="reference-markers" opacity="0.6">
+    <circle cx="14" cy="20" r="3" fill="#00C853" />
+    <circle cx="106" cy="20" r="3" fill="#FF9100" />
+  </g>
+</svg>

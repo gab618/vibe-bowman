@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="165" viewBox="0 0 80 165">
+  <!-- torso.svg: anchor = quadril (40, 150), tip = pescoço (40, 15) -->
+  <!-- Tokens: #FF00FF = corpo principal, #00FFFF = detalhe/sombra -->
+  <rect x="26" y="15" width="28" height="135" rx="14" fill="#FF00FF" />
+  <line x1="40" y1="28" x2="40" y2="136" stroke="#00FFFF" stroke-width="5" stroke-linecap="round" />
+
+  <!-- Guias de referência (remova ou oculte antes de exportar para public/assets/) -->
+  <g id="reference-markers" opacity="0.6">
+    <!-- anchor (40, 150) -->
+    <circle cx="40" cy="150" r="3" fill="#00C853" />
+    <!-- tip (40, 15) -->
+    <circle cx="40" cy="15" r="3" fill="#FF9100" />
+  </g>
+</svg>

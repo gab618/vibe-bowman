@@ -37,7 +37,7 @@ export class UiManager {
 
       const title = document.createElement('h1');
       title.className = 'ui-title';
-      title.textContent = 'BOWMAN';
+      title.textContent = 'VIBE-BOWMAN';
 
       const sub = document.createElement('p');
       sub.className = 'ui-subtitle';

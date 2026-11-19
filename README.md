@@ -1,4 +1,4 @@
-# Bowman
+# vibe-bowman
 
 Jogo de navegador 2D inspirado no clássico *Bowman* (2006), feito com **Vite + TypeScript + HTML5 Canvas 2D + Web Audio API**.
 
